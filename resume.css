@@ -11,3 +11,34 @@ header{
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
+
+h1, h2{
+	font-family: 'Comic Neue', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid crimson;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%
+}
+
+h2{
+	font-size: 35px;
+	color: dimgrey;
+	margin: 40px 0 10px;
+}
