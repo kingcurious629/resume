@@ -24,7 +24,7 @@ h1, h2{
 
 header h1{
 	color: white;
-	font-size: 50px;
+	font-size: 75px;
 	text-align: center;
 }
 
@@ -45,7 +45,16 @@ main img{
 }
 
 h2{
-	font-size: 35px;
+	font-size: 45px;
 	color: white;
 	margin: 40px 0 10px;
+}
+
+h3{
+	font-size: 30px;
+}
+
+p{
+	font-style: italic;
+	font-size: 20px;
 }
