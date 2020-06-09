@@ -3,13 +3,14 @@ body{
 	font-family: 'Comic Neue', Helvitica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
+	background-image: url("https://cdn4.vectorstock.com/i/1000x1000/65/08/abstract-blue-striped-retro-comic-background-with-vector-24176508.jpg");
+	background-color: #4169E1;
 }
 
 header{
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: #4169E1;
 }
 
 h1, h2{
