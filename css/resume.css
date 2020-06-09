@@ -43,6 +43,9 @@ main{
 main img{
 	max-width: 100%
 }
+ul.education li{
+	font-family: 'Acme', sans-serif;
+}
 
 h2{
 	font-size: 45px;
