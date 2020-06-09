@@ -5,6 +5,10 @@ body{
 	line-height: 30px;
 	background-image: url("https://cdn4.vectorstock.com/i/1000x1000/65/08/abstract-blue-striped-retro-comic-background-with-vector-24176508.jpg");
 	background-color: #4169E1;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
 }
 
 header{
