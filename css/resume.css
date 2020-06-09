@@ -55,15 +55,16 @@ h3{
 }
 
 a{
-color: #1E90FF;
+color: white;
 }
 
 a:hover{
-	color: white;
+	color: #1E90FF;
 	background-color:#B0C4DE;
 }
 
 p{
 	font-style: italic;
+	font-family: 'Acme', sans-serif;
 	font-size: 20px;
 }
