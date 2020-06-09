@@ -1,6 +1,7 @@
 body{
 	magrin: 0;
 	font-family: 'Comic Neue', Helvitica, Arial, sans-serif;
+	font-color: white;
 	font-size: 20px;
 	line-height: 30px;
 	background-image: url("https://media.istockphoto.com/photos/spotted-popart-blue-background-blank-frame-with-copy-space-picture-id1132138180?k=6&m=1132138180&s=612x612&w=0&h=eV9TZtWe-vMRXeJds3qF8PdC7-fb5QloC-X1XWLtGpE=");
@@ -45,6 +46,6 @@ main img{
 
 h2{
 	font-size: 35px;
-	color: #778899;
+	color: white;
 	margin: 40px 0 10px;
 }
